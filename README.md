@@ -1,6 +1,6 @@
 # CMPE 283 Assignment 1
 
-## Question 1: 
+## Question 1: N/A (Individual Work)
 
 ## Question 2: Steps followed in the assignment
 
@@ -27,4 +27,4 @@
 
 9. Run ```sudo rmmod cmpe283-1``` to remove the modules from the linux kernel. Clean up of modules is performed by cleanup_module()
 
-10. Output can be checked by executing ```dmesg``` and copied the result to **result.txt**
+10. Output can be checked by executing ```dmesg``` and copied the result to **result.txt** (https://github.com/kamireddym28/linux/blob/master/cmpe283/result.txt)
